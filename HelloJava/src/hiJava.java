@@ -11,5 +11,6 @@ public class hiJava {
 		System.out.println("hello,Java!");
 		System.out.println("hi,Java!");
 		System.out.println("ÄãºÃÑ½");
+		System.out.println("ÄãºÃÑ½");
 	}
 }
