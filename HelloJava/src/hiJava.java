@@ -13,5 +13,14 @@ public class hiJava {
 		System.out.println("你好呀");
 		System.out.println("你好呀");
 		System.out.println("你好呀");
+		System.out.println("你好呀");
+		System.out.println("你好呀");
+		System.out.println("你好呀");
+		System.out.println("你好呀");
+		System.out.println("你好呀");
+		System.out.println("你好呀");
+		System.out.println("你好呀");
+		System.out.println("你好呀");
+		System.out.println("你好呀");
 	}
 }
